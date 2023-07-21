@@ -1,21 +1,21 @@
 {
-"faction": "No Man's Sky r/NoMansSkyTheGame",
-"contact": "https://discord.gg/nomanssky, @ccowl, @evo_kaer, @phroggu",
-"templates": [
-{
-"name": "No Man's Sky r/place art",
-"sources": [
-"https://raw.githubusercontent.com/ChrisP099/NMS-Template/main/NMS-1.png"
-],
-"x": 803,
-"y": 647
-}
-],
-"whitelist": [
-{
-"name": "P3ACE Alliance",
-"url": "https://charity.pxls.space/p3ace"
-}
-],
-"blacklist": []
+  "faction": "No Man's Sky r/NoMansSkyTheGame",
+  "contact": "https://discord.gg/nomanssky, @ccowl, @evo_kaer, @phroggu",
+  "templates": [
+    {
+      "name": "No Man's Sky r/place art",
+      "sources": [
+        "https://raw.githubusercontent.com/voKaer/Place_Data/main/NMS-1.png"
+      ],
+      "x": 803,
+      "y": 647
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "P3ACE Alliance",
+      "url": "https://charity.pxls.space/p3ace"
+    }
+  ],
+  "blacklist": []
 }
