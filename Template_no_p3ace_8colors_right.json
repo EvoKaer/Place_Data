@@ -1,0 +1,14 @@
+{
+  "faction": "No Man's Sky r/NoMansSkyTheGame",
+  "contact": "https://discord.gg/nomanssky, @ccowl, @evo_kaer, @phroggu",
+  "templates": [
+    {
+      "name": "No Man's Sky r/place art",
+      "sources": [
+        "https://raw.githubusercontent.com/EvoKaer/Place_Data/main/NMS-1_color_adapted.png"
+      ],
+      "x": 1728,
+      "y": 661
+    }
+  ]
+}
